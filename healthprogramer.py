@@ -13,7 +13,7 @@ while(True):
 """print("Enter the time period in Hour")
 from pygame import *
 mixer.init() 
-mixer.music.load('Nadaan.mp3.')
+mixer.music.load('barish.mp3.')
 mixer.music.set_volume(100)
 
 mixer.music.play(1,10)"""
